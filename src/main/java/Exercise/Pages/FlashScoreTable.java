@@ -1,4 +1,4 @@
-package Exercise.pages;
+package Exercise.Pages;
 
 import LocalUtils.Annotations.WebElementLocator;
 import LocalUtils.Annotations.WebElementLocatorFactory;
